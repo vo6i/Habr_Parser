@@ -2,6 +2,8 @@
 Simple Parser Habe
 
 ```
+git clone https://github.com/vo6i/Habr_Parser.git
+cd Habr_Parser
 pip install beautifulsoup4
 python phabr.py 
 ```
